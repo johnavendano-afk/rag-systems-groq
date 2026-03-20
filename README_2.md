@@ -258,19 +258,8 @@ Please keep code style consistent with the existing scripts (type hints, docstri
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Author
-
-**John Avendaño**
-
-[![GitHub](https://img.shields.io/badge/GitHub-johnavendano--afk-181717?logo=github)](https://github.com/johnavendano-afk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-john--avendano-0A66C2?logo=linkedin)](https://www.linkedin.com/in/john-avendano/)
-
----
-
-> Designed and built by [John Avendaño](https://github.com/johnavendano-afk) · Powered by [Groq](https://groq.com) · [sentence-transformers](https://www.sbert.net/) · [Streamlit](https://streamlit.io)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+> Built with [Groq](https://groq.com) · [sentence-transformers](https://www.sbert.net/) · [Streamlit](https://streamlit.io)
